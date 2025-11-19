@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Susane 👋
 
-👩🏻‍💻 I'm a full-stack developer currently studying Computer Science at Unicamp
-📍 I live in Campinas, SP
-💭 I'm diving deeper into AWS and Docker while sharpening my skills in Java, Spring, Angular, React, and data structures & algorithms
-🚀 I love solving problems and I'm always looking to learn and improve
+👩🏻‍💻 I'm a full-stack developer currently studying Computer Science at Unicamp <br>
+📍 I live in Campinas, SP <br>
+💭 I'm diving deeper into AWS and Docker while sharpening my skills in Java, Spring, Angular, React, and data structures & algorithms <br>
+🚀 I love solving problems and I'm always looking to learn and improve <br>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
